@@ -1,0 +1,32 @@
+.m
+{
+    margin-left: 500px;
+}
+.t1, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 40px 10px 40px;
+}
+.c1
+{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+input{
+    padding: 20px;
+    border: none;
+}
+.b5
+{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid blue;
+    margin-left: 180px;
+}
+
+::placeholder
+{
+    color: black;
+}

@@ -1,0 +1,42 @@
+.h66
+{
+    font-weight: 600;
+    margin-left: -35px;
+}
+.tbb, .trr, .tdd{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.tdd, .trr{
+    padding: 5px 20px 5px 20px;
+}
+.inn
+{
+    padding: 5px;
+    border: none;
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+}
+.fpp
+{
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.lgg
+{
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    border: 2px solid blue;
+    margin-left: 60px;
+}
+.mmm
+{
+    margin-left: 500px;
+    margin-top: 100px;
+}

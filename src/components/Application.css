@@ -1,0 +1,46 @@
+.tt,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.rr{
+    padding: 5px 60px 5px 60px;
+}
+.bb
+{
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.main
+{
+    margin-left: 500px;
+}
+input
+{
+    padding: 32px;
+    border: none;
+}
+.bc
+{
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    margin-left: 200px;
+
+}
+.nx
+{
+    border: none;
+    font-size: 20px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+.cc
+{
+    margin-bottom: 20px;
+}

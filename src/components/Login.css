@@ -1,0 +1,43 @@
+.h6
+{
+    font-weight: 600;
+    margin-left: 100px;
+}
+table, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, tr{
+    padding: 5px 20px 5px 20px;
+}
+input
+{
+    padding: 5px;
+    border: none;
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+    color: white;
+}
+.fp, .lg
+{
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.subm
+{
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    border: 1px solid blue;
+    margin-left: 130px;
+}
+.mm
+{
+    margin-left: 500px;
+    margin-top: 100px;
+}

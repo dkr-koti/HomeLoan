@@ -1,0 +1,39 @@
+.btt
+{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid blue;
+}
+div{
+    margin-left: 170px;
+}
+.tbb, tr, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 10px 40px 10px 40px;
+}
+input{
+    border: none;
+    padding: 10px;
+}
+.btn
+{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid blue;
+    margin-left: 150px;
+}
+.next
+{
+    border: none;
+    font-size: 20px;
+    margin-left: 180px;
+    margin-bottom: 50px;
+}

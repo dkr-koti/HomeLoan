@@ -1,0 +1,89 @@
+.first
+{
+    display: inline;
+    float: left;
+    margin-left: 270px;
+    margin-top: 80px;
+}
+.second
+{
+    font-weight: 500;
+}
+.third, .four, .five
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+.six
+{
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+.seven
+{
+    border: 2px solid blue;
+    background-color: cornflowerblue;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    margin-left: 120px;
+}
+
+
+.a
+{
+    display: inline;
+    float: right;
+    margin-right: 370px;
+    font-weight: 500;
+}
+.b, .c, .d 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+.d
+{
+    font-weight: 500;
+}
+
+.e 
+{
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: white;
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+}
+.f 
+{
+    background-color: cornflowerblue;
+    border: 2px solid blue;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.fff
+{
+    display: inline;
+    border: none;
+    float: left;
+}
+.ffff
+{
+    display: inline;
+    border: none;
+    float: right;
+    margin-right: 350px;
+}

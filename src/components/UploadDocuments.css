@@ -1,0 +1,34 @@
+fieldset
+{
+    width: 700px;
+}
+.fir{
+    margin-left: 400px;
+}
+.tx
+{
+    margin-top: 50px;
+}
+table, tr, td
+{
+    padding: 22px;
+    border: none;
+    border-collapse: collapse;
+}
+.btnn
+{
+    margin-left: 300px;
+    background-color: cornflowerblue;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid blue;
+    color: white;
+}
+.sub
+{
+    background-color: cornflowerblue;
+    padding: 20px 50px 20px 50px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin-left: 400px;
+    color: white;
+}
